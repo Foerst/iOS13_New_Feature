@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:BgTasks/BgTasks.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AppleSignIn/AppleSignIn.xcodeproj">
    </FileRef>
 </Workspace>
